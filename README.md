@@ -1,7 +1,7 @@
 ## 个人信息/Personal Info
 | 姓名/Name | 生日/BirthDay | 电话/Tel | 邮件/Mail |
 | -------- | ------------- | -------- | ---------|
-| 熊俊锋 | 1978.10.15 | +86 13510701458 | jfhb@qq.com<br>jfhb@msn.com |
+| 熊俊锋<br>Junfeng Xiong | 1978.10.15 | +86 13510701458 | jfhb@qq.com<br>jfhb@msn.com |
 
 毕业于/Graduate From：[华中师范大学/Central China Normal University](https://www.ccnu.edu.cn) (1997-2001)
 
